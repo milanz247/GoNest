@@ -1,0 +1,12 @@
+.env
+*.log
+storage/logs/*.log
+storage/uploads/*
+!storage/uploads/.gitkeep
+!storage/logs/.gitkeep
+/bin/
+/dist/
+*.exe
+.DS_Store
+.idea/
+.vscode/
